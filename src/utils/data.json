@@ -1,0 +1,26 @@
+[
+    {
+        "valor":300,
+        "nome":"Internet",
+        "categoria":"Gastos Fixos",
+        "tipo":"saida"
+    },
+    {
+        "valor":700,
+        "nome":"Contrato FACEPE",
+        "categoria":"Contratos",
+        "tipo":"entrada"
+    },
+    {
+        "valor":400,
+        "nome":"Desgin",
+        "categoria":"Gasto de projeto",
+        "tipo":"saida"
+    },
+    {
+        "valor":800,
+        "nome":"Contrato Aldo",
+        "categoria":"Contratos",
+        "tipo":"entrada"
+    }
+]
